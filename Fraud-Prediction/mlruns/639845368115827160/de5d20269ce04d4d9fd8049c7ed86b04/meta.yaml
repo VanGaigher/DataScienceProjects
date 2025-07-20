@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vanes/Documents/02-Estudos/DataScienceProjects/Fraud-Prediction/mlruns/639845368115827160/de5d20269ce04d4d9fd8049c7ed86b04/artifacts
+end_time: 1753012094232
+entry_point_name: ''
+experiment_id: '639845368115827160'
+lifecycle_stage: active
+run_id: de5d20269ce04d4d9fd8049c7ed86b04
+run_name: Decision Tree- Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753011982041
+status: 3
+tags: []
+user_id: vanes

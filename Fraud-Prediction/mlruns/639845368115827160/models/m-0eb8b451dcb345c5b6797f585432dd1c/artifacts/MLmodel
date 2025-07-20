@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/vanes/Documents/02-Estudos/DataScienceProjects/Fraud-Prediction/mlruns/639845368115827160/models/m-0eb8b451dcb345c5b6797f585432dd1c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 3.1.1
+model_id: m-0eb8b451dcb345c5b6797f585432dd1c
+model_size_bytes: 27774
+model_uuid: m-0eb8b451dcb345c5b6797f585432dd1c
+prompts: null
+run_id: 1d36d63b885d4cea9cc7e2dc28fd4546
+utc_time_created: '2025-07-20 11:50:32.406675'

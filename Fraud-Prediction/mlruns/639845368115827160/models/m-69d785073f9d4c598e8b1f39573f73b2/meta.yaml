@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vanes/Documents/02-Estudos/DataScienceProjects/Fraud-Prediction/mlruns/639845368115827160/models/m-69d785073f9d4c598e8b1f39573f73b2/artifacts
+creation_timestamp: 1753012706128
+experiment_id: '639845368115827160'
+last_updated_timestamp: 1753012709615
+model_id: m-69d785073f9d4c598e8b1f39573f73b2
+model_type: null
+name: model
+source_run_id: 41524112bbc64017847d3c6d57b68d88
+status: 2
+status_message: null
